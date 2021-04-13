@@ -1,0 +1,9 @@
+//create lists of currencys and arrays 
+//use while loop to input the currencys into an array list
+Currency(int p, String c,  String v1,  String v2,  String v3,  String v4,  String v5,  String v6,  String v7, String v8)
+1 USDollars 1 5 10 25 50 100 500 1000
+2 Euro 1 5 10 25 50 100 500 1000
+3 Yen 1 5 10 25 50 100 500 1000
+4 USDollars 1 5 10 25 50 100 500 1000
+5 USDollars 1 5 10 25 50 100 500 1000
+6 USDollars 1 5 10 25 50 100 500 1000
