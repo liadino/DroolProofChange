@@ -8,8 +8,10 @@ public class IntroQs {
 	private void basics() {
 		// TODO Auto-generated method stub
 		System.out.println("How much does your purchase cost?");
-		double cost = input.nextDouble();
+		int cost = input.nextInt();
 		System.out.println("How much are you paying with?");
-		double bill = input.nextDouble();
+		int bill = input.nextInt();
+		
+		int change = cost - bill;
 	}
 }
